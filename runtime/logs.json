@@ -1,0 +1,137 @@
+[
+  {
+    "ts": "2026-06-14T15:28:33.751Z",
+    "level": "info",
+    "message": "Command: cicd init"
+  },
+  {
+    "ts": "2026-06-15T00:23:08.011Z",
+    "level": "info",
+    "message": "Command: cicd init"
+  },
+  {
+    "ts": "2026-06-15T00:23:43.626Z",
+    "level": "info",
+    "message": "Command: cicd init"
+  },
+  {
+    "ts": "2026-06-15T01:24:27.147Z",
+    "level": "info",
+    "message": "Command: cicd generate"
+  },
+  {
+    "ts": "2026-06-15T01:24:27.147Z",
+    "level": "info",
+    "message": "Generating CI/CD for: /Users/dezierrejiocemallari/dez-oz"
+  },
+  {
+    "ts": "2026-06-15T01:24:27.147Z",
+    "level": "info",
+    "message": "🔍 Detecting project type..."
+  },
+  {
+    "ts": "2026-06-15T01:24:27.147Z",
+    "level": "success",
+    "message": "Detected project type: node"
+  },
+  {
+    "ts": "2026-06-15T01:24:27.148Z",
+    "level": "success",
+    "message": "✅ GitHub Actions workflow generated at: /Users/dezierrejiocemallari/dez-oz/.github/workflows/dez-ci.yml"
+  },
+  {
+    "ts": "2026-06-15T01:26:43.617Z",
+    "level": "info",
+    "message": "Command: cicd validate"
+  },
+  {
+    "ts": "2026-06-15T01:26:43.619Z",
+    "level": "success",
+    "message": "CI validation passed"
+  },
+  {
+    "ts": "2026-06-15T01:28:28.263Z",
+    "level": "info",
+    "message": "Command: cicd validate"
+  },
+  {
+    "ts": "2026-06-15T01:28:28.263Z",
+    "level": "info",
+    "message": "🧪 Running local CI simulation..."
+  },
+  {
+    "ts": "2026-06-15T01:28:28.337Z",
+    "level": "success",
+    "message": "Linting passed"
+  },
+  {
+    "ts": "2026-06-15T01:28:28.708Z",
+    "level": "success",
+    "message": "✅ CI passed locally"
+  },
+  {
+    "ts": "2026-06-15T01:28:28.708Z",
+    "level": "success",
+    "message": "CI validation passed"
+  },
+  {
+    "ts": "2026-06-15T01:29:47.414Z",
+    "level": "info",
+    "message": "Command: cicd generate"
+  },
+  {
+    "ts": "2026-06-15T01:29:47.414Z",
+    "level": "info",
+    "message": "Generating CI/CD for: /Users/dezierrejiocemallari/dez-oz"
+  },
+  {
+    "ts": "2026-06-15T01:29:47.414Z",
+    "level": "info",
+    "message": "🔍 Detecting project type..."
+  },
+  {
+    "ts": "2026-06-15T01:29:47.414Z",
+    "level": "success",
+    "message": "Detected project type: node"
+  },
+  {
+    "ts": "2026-06-15T01:29:47.415Z",
+    "level": "success",
+    "message": "✅ GitHub Actions workflow generated at: /Users/dezierrejiocemallari/dez-oz/.github/workflows/dez-ci.yml"
+  },
+  {
+    "ts": "2026-06-15T01:29:47.458Z",
+    "level": "info",
+    "message": "Command: cicd deploy"
+  },
+  {
+    "ts": "2026-06-15T01:29:47.458Z",
+    "level": "info",
+    "message": "🚀 Starting automated CI/CD deployment..."
+  },
+  {
+    "ts": "2026-06-15T01:29:47.458Z",
+    "level": "info",
+    "message": "🧪 Running local CI simulation..."
+  },
+  {
+    "ts": "2026-06-15T01:29:47.529Z",
+    "level": "success",
+    "message": "Linting passed"
+  },
+  {
+    "ts": "2026-06-15T01:29:47.838Z",
+    "level": "success",
+    "message": "✅ CI passed locally"
+  },
+  {
+    "ts": "2026-06-15T01:29:47.838Z",
+    "level": "info",
+    "message": "📦 CI passed, pushing to GitHub..."
+  },
+  {
+    "ts": "2026-06-15T01:29:47.840Z",
+    "level": "success",
+    "message": "✨ Pipeline complete! Changes pushed to GitHub."
+  }
+]

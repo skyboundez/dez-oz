@@ -1,0 +1,1 @@
+{"version":3,"file":"scaffoldEngine.d.ts","sourceRoot":"","sources":["../../src/engine/scaffoldEngine.ts"],"names":[],"mappings":"AAMA,MAAM,WAAW,eAAe;IAAG,IAAI,EAAE,MAAM,CAAC;IAAC,aAAa,EAAE,MAAM,CAAC;CAAE;AAEzE,wBAAsB,eAAe,CAAC,IAAI,EAAE,eAAe,GAAG,OAAO,CAAC,MAAM,CAAC,CA0B5E"}
